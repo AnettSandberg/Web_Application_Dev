@@ -1,3 +1,10 @@
-# Web_Application_Dev
-Web Application Development (Anett Sandberg)
-This is my README file.
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="res/images/favicon.ico">
+    <title>My Dashboard</title>
+  </head>
+  <body>
+  </body>
+</html>
